@@ -145,7 +145,7 @@ server.listen(listenAddress, () => {
   });
 });
 
-const STATIC_ASSETS_BASE = "/_nuxt/F:/Projets/Projets pro/MYCOACH/my-coach-public/dist" + "/" + "1645473599";
+const STATIC_ASSETS_BASE = "/_nuxt/F:/Projets/Projets pro/MYCOACH/my-coach-public/dist" + "/" + "1645557805";
 const PAYLOAD_JS = "/payload.js";
 const getClientManifest = cachedImport(() => import('file:///F:/Projets/Projets%20pro/MYCOACH/my-coach-public/.nuxt/dist/server/client.manifest.mjs'));
 const getSSRApp = cachedImport(() => import('file:///F:/Projets/Projets%20pro/MYCOACH/my-coach-public/.nuxt/dist/server/server.mjs'));
